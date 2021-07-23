@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    background:linear-gradient(#348ceb 0%,#56c2f5 100%);
+
+}
+.links {
+    display:inline;
+    color: green;
+    
+    
+    padding-right: 9px;
+    padding-left: 9px;
+}
+.span {
+    width: 200px;
+    height: 200px;
+}
